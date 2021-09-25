@@ -1,6 +1,6 @@
-This project is focused on using machine learning to predict life expectancy based on a wide range of factors. To achieve this, I used a multiple linear regression method and combined this with interactive graphs and displays to demonstrate how variables like education and average GDP link to life expectancy across continents. I ensured that all data I used fit key assumptions for the regression analysis and worked to correct for factors like heteroscedasticity, multicollinearity, etc. that can potentially disrupt my end results. 
-The data is from the following website: https://www.kaggle.com/kumarajarshi/life-expectancy-who. 
-The project allows the user to input their own values for the variables to recieve their estimated life expectancy at birth. 
+#This project is focused on using machine learning to predict life expectancy based on a wide range of factors. To achieve this, I used a multiple linear regression method and combined this with interactive graphs and displays to demonstrate how variables like education and average GDP link to life expectancy across continents. I ensured that all data I used fit key assumptions for the regression analysis and worked to correct for factors like heteroscedasticity, multicollinearity, etc. that can potentially disrupt my end results. 
+#The data is from the following website: https://www.kaggle.com/kumarajarshi/life-expectancy-who. 
+#The project allows the user to input their own values for the variables to recieve their estimated life expectancy at birth. 
 Below are the units for each of the variables (copied from the source of the data):
 -Year: 
 -Adult Mortality: "Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)"
