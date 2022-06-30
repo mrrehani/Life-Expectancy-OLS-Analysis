@@ -1,4 +1,4 @@
-# Life Expectancy
+# Life Expectancy Ordinary Least Squares Analysis
 ![Contributors](https://img.shields.io/badge/Contributors-Michael%20Rehani-brightgreen)
 ![Licence](https://img.shields.io/github/license/mrrehani/Life-Expectancy)
 ![Size](https://img.shields.io/github/repo-size/mrrehani/Life-Expectancy)
